@@ -1,0 +1,20 @@
+MyWebSpringBootVersion/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── anetasvobodova/
+│   │   │           └── mywebspringbootversion/
+│   │   │               ├── controller/
+│   │   │               │   └── OrderController.java
+│   │   │               ├── entity/
+│   │   │               │   └── OrderRequest.java
+│   │   │               ├── repository/
+│   │   │               │   └── OrderRepository.java
+│   │   │               └── MyWebSpringBootVersionApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── static/
+│   │           └── index.html
+│   │           └── style.css
+└── pom.xml
