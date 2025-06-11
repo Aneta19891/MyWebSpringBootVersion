@@ -1,0 +1,5 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/tvoje_databaze?useSSL=false&serverTimezone=UTC
+spring.datasource.username=tvuj_uzivatel
+spring.datasource.password=tve_heslo
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
